@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Deep Learning on Luwu.AI - AI Research Lab</title><link>https://luwu.ai/categories/deep-learning/</link><description>Recent content in Deep Learning on Luwu.AI - AI Research Lab</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 23 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://luwu.ai/categories/deep-learning/index.xml" rel="self" type="application/rss+xml"/><item><title>Understanding the Transformer Architecture</title><link>https://luwu.ai/blog/transformer-explained/</link><pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate><guid>https://luwu.ai/blog/transformer-explained/</guid><description>&lt;h2 id="introduction"&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Since its introduction in 2017, the Transformer architecture has become the cornerstone of natural language processing. This article provides an in-depth yet accessible explanation of Transformer&amp;rsquo;s core mechanisms.&lt;/p&gt;
+&lt;h2 id="why-do-we-need-transformers"&gt;Why Do We Need Transformers?&lt;/h2&gt;
+&lt;p&gt;Before Transformers, RNNs and LSTMs were the mainstream methods for sequence modeling. However, they had several limitations:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Sequential Computation&lt;/strong&gt; - Cannot be parallelized, leading to low training efficiency&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Long-range Dependencies&lt;/strong&gt; - Difficulty capturing long-distance contextual information&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gradient Issues&lt;/strong&gt; - Long sequences prone to vanishing gradients&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Transformers elegantly solve these problems through the &lt;strong&gt;self-attention mechanism&lt;/strong&gt;.&lt;/p&gt;</description></item></channel></rss>

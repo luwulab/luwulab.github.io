@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Luwu.AI - AI Research Lab</title><link>https://luwu.ai/projects/</link><description>Recent content in Projects on Luwu.AI - AI Research Lab</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://luwu.ai/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>LuwuLLM - Lightweight Language Model</title><link>https://luwu.ai/projects/luwu-llm/</link><pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate><guid>https://luwu.ai/projects/luwu-llm/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;LuwuLLM is a lightweight large language model project focused on providing high-quality Chinese language understanding capabilities in resource-constrained environments.&lt;/p&gt;
+&lt;h2 id="core-features"&gt;Core Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lightweight Design&lt;/strong&gt;: Optimized model parameters suitable for edge device deployment&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chinese Optimization&lt;/strong&gt;: Deep training on Chinese corpora for more accurate understanding&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fast Inference&lt;/strong&gt;: Optimized inference engine with quick response times&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Easy Integration&lt;/strong&gt;: Simple API interface&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="tech-stack"&gt;Tech Stack&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;PyTorch&lt;/li&gt;
+&lt;li&gt;Transformers&lt;/li&gt;
+&lt;li&gt;ONNX Runtime&lt;/li&gt;
+&lt;li&gt;FastAPI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="use-cases"&gt;Use Cases&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Intelligent customer service&lt;/li&gt;
+&lt;li&gt;Text summarization&lt;/li&gt;
+&lt;li&gt;Question answering systems&lt;/li&gt;
+&lt;li&gt;Content generation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="project-status"&gt;Project Status&lt;/h2&gt;
+&lt;p&gt;🚧 &lt;strong&gt;In Development&lt;/strong&gt; - Beta version expected Q1 2026&lt;/p&gt;</description></item><item><title>VisionPlus - Multimodal Vision System</title><link>https://luwu.ai/projects/vision-plus/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://luwu.ai/projects/vision-plus/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;VisionPlus is an advanced multimodal visual understanding system capable of simultaneously processing images, videos, and text information to provide comprehensive visual intelligence solutions.&lt;/p&gt;
+&lt;h2 id="core-functions"&gt;Core Functions&lt;/h2&gt;
+&lt;h3 id="image-understanding"&gt;Image Understanding&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Object detection and recognition&lt;/li&gt;
+&lt;li&gt;Scene understanding&lt;/li&gt;
+&lt;li&gt;Image caption generation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="video-analysis"&gt;Video Analysis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Action recognition&lt;/li&gt;
+&lt;li&gt;Event detection&lt;/li&gt;
+&lt;li&gt;Video summarization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="multimodal-fusion"&gt;Multimodal Fusion&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Image-text matching&lt;/li&gt;
+&lt;li&gt;Visual question answering&lt;/li&gt;
+&lt;li&gt;Cross-modal retrieval&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="technical-highlights"&gt;Technical Highlights&lt;/h2&gt;
+&lt;p&gt;✨ &lt;strong&gt;Unified Architecture&lt;/strong&gt; - Single model handles multiple vision tasks&lt;br&gt;
+⚡ &lt;strong&gt;Efficient Inference&lt;/strong&gt; - Optimized model structure for real-time processing&lt;br&gt;
+🎯 &lt;strong&gt;High Accuracy&lt;/strong&gt; - Achieves SOTA performance on multiple benchmark datasets&lt;br&gt;
+🔧 &lt;strong&gt;Flexible Deployment&lt;/strong&gt; - Supports both cloud and edge devices&lt;/p&gt;</description></item><item><title>RLAgent - Universal Reinforcement Learning Framework</title><link>https://luwu.ai/projects/rl-agent/</link><pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate><guid>https://luwu.ai/projects/rl-agent/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;RLAgent is a universal reinforcement learning research framework providing a complete toolchain from algorithm research to practical deployment.&lt;/p&gt;
+&lt;h2 id="framework-features"&gt;Framework Features&lt;/h2&gt;
+&lt;h3 id="-modular-design"&gt;🧩 Modular Design&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Standardized environment interface&lt;/li&gt;
+&lt;li&gt;Pluggable algorithm components&lt;/li&gt;
+&lt;li&gt;Configurable training pipeline&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="-rich-algorithm-library"&gt;🎮 Rich Algorithm Library&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;DQN / DDPG / SAC&lt;/li&gt;
+&lt;li&gt;PPO / A3C&lt;/li&gt;
+&lt;li&gt;Multi-agent algorithms&lt;/li&gt;
+&lt;li&gt;Model-based RL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="-visualization-tools"&gt;📊 Visualization Tools&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Real-time training monitoring&lt;/li&gt;
+&lt;li&gt;Policy visualization&lt;/li&gt;
+&lt;li&gt;Performance analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="-distributed-training"&gt;🚀 Distributed Training&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Multi-GPU parallel processing&lt;/li&gt;
+&lt;li&gt;Distributed sampling&lt;/li&gt;
+&lt;li&gt;Experience replay management&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="supported-environments"&gt;Supported Environments&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;OpenAI Gym&lt;/li&gt;
+&lt;li&gt;MuJoCo&lt;/li&gt;
+&lt;li&gt;Unity ML-Agents&lt;/li&gt;
+&lt;li&gt;Custom environments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="typical-applications"&gt;Typical Applications&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Robot Control&lt;/strong&gt; - Robotic arm manipulation, drone flight&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Game AI&lt;/strong&gt; - Strategy games, real-time combat&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Resource Optimization&lt;/strong&gt; - Task scheduling, path planning&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automated Trading&lt;/strong&gt; - Quantitative strategy optimization&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="quick-start"&gt;Quick Start&lt;/h2&gt;
+&lt;div class="highlight"&gt;&lt;div style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;
+&lt;table style="border-spacing:0;padding:0;margin:0;border:0;"&gt;&lt;tr&gt;&lt;td style="vertical-align:top;padding:0;margin:0;border:0;"&gt;
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code&gt;&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"&gt;1
+&lt;/span&gt;&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"&gt;2
+&lt;/span&gt;&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"&gt;3
+&lt;/span&gt;&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"&gt;4
+&lt;/span&gt;&lt;span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%"&gt;
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#f92672"&gt;from&lt;/span&gt; rlagent &lt;span style="color:#f92672"&gt;import&lt;/span&gt; Agent, Environment
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;env &lt;span style="color:#f92672"&gt;=&lt;/span&gt; Environment(&lt;span style="color:#e6db74"&gt;&amp;#39;CartPole-v1&amp;#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;agent &lt;span style="color:#f92672"&gt;=&lt;/span&gt; Agent(&lt;span style="color:#e6db74"&gt;&amp;#39;PPO&amp;#39;&lt;/span&gt;, env)
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;agent&lt;span style="color:#f92672"&gt;.&lt;/span&gt;train(episodes&lt;span style="color:#f92672"&gt;=&lt;/span&gt;&lt;span style="color:#ae81ff"&gt;1000&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id="project-status"&gt;Project Status&lt;/h2&gt;
+&lt;p&gt;✅ &lt;strong&gt;Stable Release&lt;/strong&gt; - v1.0 Available&lt;/p&gt;</description></item></channel></rss>

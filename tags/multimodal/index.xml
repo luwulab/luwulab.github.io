@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Multimodal on Luwu.AI - AI Research Lab</title><link>https://luwu.ai/tags/multimodal/</link><description>Recent content in Multimodal on Luwu.AI - AI Research Lab</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://luwu.ai/tags/multimodal/index.xml" rel="self" type="application/rss+xml"/><item><title>VisionPlus - Multimodal Vision System</title><link>https://luwu.ai/projects/vision-plus/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><guid>https://luwu.ai/projects/vision-plus/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;VisionPlus is an advanced multimodal visual understanding system capable of simultaneously processing images, videos, and text information to provide comprehensive visual intelligence solutions.&lt;/p&gt;
+&lt;h2 id="core-functions"&gt;Core Functions&lt;/h2&gt;
+&lt;h3 id="image-understanding"&gt;Image Understanding&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Object detection and recognition&lt;/li&gt;
+&lt;li&gt;Scene understanding&lt;/li&gt;
+&lt;li&gt;Image caption generation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="video-analysis"&gt;Video Analysis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Action recognition&lt;/li&gt;
+&lt;li&gt;Event detection&lt;/li&gt;
+&lt;li&gt;Video summarization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="multimodal-fusion"&gt;Multimodal Fusion&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Image-text matching&lt;/li&gt;
+&lt;li&gt;Visual question answering&lt;/li&gt;
+&lt;li&gt;Cross-modal retrieval&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="technical-highlights"&gt;Technical Highlights&lt;/h2&gt;
+&lt;p&gt;✨ &lt;strong&gt;Unified Architecture&lt;/strong&gt; - Single model handles multiple vision tasks&lt;br&gt;
+⚡ &lt;strong&gt;Efficient Inference&lt;/strong&gt; - Optimized model structure for real-time processing&lt;br&gt;
+🎯 &lt;strong&gt;High Accuracy&lt;/strong&gt; - Achieves SOTA performance on multiple benchmark datasets&lt;br&gt;
+🔧 &lt;strong&gt;Flexible Deployment&lt;/strong&gt; - Supports both cloud and edge devices&lt;/p&gt;</description></item></channel></rss>

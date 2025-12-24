@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Image Generation on Luwu.AI - AI Research Lab</title><link>https://luwu.ai/tags/image-generation/</link><description>Recent content in Image Generation on Luwu.AI - AI Research Lab</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://luwu.ai/tags/image-generation/index.xml" rel="self" type="application/rss+xml"/><item><title>Diffusion Models: A New Paradigm for AI Image Generation</title><link>https://luwu.ai/blog/diffusion-models-intro/</link><pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate><guid>https://luwu.ai/blog/diffusion-models-intro/</guid><description>&lt;h2 id="what-are-diffusion-models"&gt;What are Diffusion Models?&lt;/h2&gt;
+&lt;p&gt;Diffusion Models are a class of powerful generative models that create high-quality images from random noise through a gradual denoising process.&lt;/p&gt;
+&lt;h2 id="core-concepts"&gt;Core Concepts&lt;/h2&gt;
+&lt;p&gt;Diffusion models involve two key processes:&lt;/p&gt;
+&lt;h3 id="1-forward-diffusion-process-adding-noise"&gt;1. Forward Diffusion Process (Adding Noise)&lt;/h3&gt;
+&lt;p&gt;Gradually add Gaussian noise to data until it becomes pure noise:&lt;/p&gt;
+&lt;p&gt;$$
+x_t = \sqrt{\alpha_t} x_0 + \sqrt{1-\alpha_t} \epsilon
+$$&lt;/p&gt;
+&lt;h3 id="2-reverse-denoising-process-generation"&gt;2. Reverse Denoising Process (Generation)&lt;/h3&gt;
+&lt;p&gt;Train a neural network to learn the reverse process, recovering data from noise:&lt;/p&gt;</description></item></channel></rss>

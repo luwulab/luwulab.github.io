@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Open Source on Luwu.AI - AI Research Lab</title><link>https://luwu.ai/tags/open-source/</link><description>Recent content in Open Source on Luwu.AI - AI Research Lab</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://luwu.ai/tags/open-source/index.xml" rel="self" type="application/rss+xml"/><item><title>LuwuLLM - Lightweight Language Model</title><link>https://luwu.ai/projects/luwu-llm/</link><pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate><guid>https://luwu.ai/projects/luwu-llm/</guid><description>&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;LuwuLLM is a lightweight large language model project focused on providing high-quality Chinese language understanding capabilities in resource-constrained environments.&lt;/p&gt;
+&lt;h2 id="core-features"&gt;Core Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lightweight Design&lt;/strong&gt;: Optimized model parameters suitable for edge device deployment&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chinese Optimization&lt;/strong&gt;: Deep training on Chinese corpora for more accurate understanding&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fast Inference&lt;/strong&gt;: Optimized inference engine with quick response times&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Easy Integration&lt;/strong&gt;: Simple API interface&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="tech-stack"&gt;Tech Stack&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;PyTorch&lt;/li&gt;
+&lt;li&gt;Transformers&lt;/li&gt;
+&lt;li&gt;ONNX Runtime&lt;/li&gt;
+&lt;li&gt;FastAPI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="use-cases"&gt;Use Cases&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Intelligent customer service&lt;/li&gt;
+&lt;li&gt;Text summarization&lt;/li&gt;
+&lt;li&gt;Question answering systems&lt;/li&gt;
+&lt;li&gt;Content generation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="project-status"&gt;Project Status&lt;/h2&gt;
+&lt;p&gt;🚧 &lt;strong&gt;In Development&lt;/strong&gt; - Beta version expected Q1 2026&lt;/p&gt;</description></item></channel></rss>
