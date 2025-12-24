@@ -599,6 +599,27 @@ img {
     color: #9ca3af;
 }
 
+/* Visitor Map Widget */
+.visitor-map-widget {
+    margin-top: 1rem;
+}
+
+.visitor-map-widget h4 {
+    color: white;
+    margin-bottom: 1rem;
+}
+
+.map-container {
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+
+.map-container img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
 /* ========================================
    Responsive
    ======================================== */
